@@ -8,6 +8,10 @@ All for GL/Yuri
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [百合博客翻新记&lpar;2/2&rpar; 聊聊我的百合博客](https://foyuri.github.io/post/blog-refresh-2/)
+- [百合博客翻新记&lpar;1/2&rpar; 自定义Hexo-Landscape主题](https://foyuri.github.io/post/blog-refresh-1/)
+- [《要我和妳交往也不是不行》：真实向GL漫](https://foyuri.github.io/post/how-do-we-relationship-intro/)
+- [《荷尔蒙》超甜小CP 物料整理：DaoKoi / FonBelle](https://foyuri.github.io/post/daokoi-collections/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest YouTube Videos
