@@ -22,7 +22,7 @@ All for GL/Yuri
 - [目光所至 心之所向｜五两 风之画员 文根英 文彩元 百合 gl](https://www.youtube.com/watch?v=Udm7x4rufn0)
 <!-- YOUTUBE:END -->
 
-## My Tools
+## Tools
 
 [![My Tools](https://skillicons.dev/icons?i=astro)](https://docs.astro.build/zh-cn/getting-started/)
 [![My Tools](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
