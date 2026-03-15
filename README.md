@@ -2,7 +2,7 @@
 
 FoYuri这个名字源于我的英文名（Foy）和我一生的热爱（GL/Yuri）
 
-我为GL/Yuri之崛起而学习，并为它创造更多程序
+我为GL/Yuri之崛起而学习，并为它写更多程序
 
 All for GL/Yuri
 
