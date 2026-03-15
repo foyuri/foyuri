@@ -1,10 +1,23 @@
-# FoYuri
+# I'm Foy, a Yuri producer
 
 FoYuri这个名字源于我的英文名（Foy）和我一生的热爱（GL/Yuri）
 
-我决定为GL/Yuri之崛起而学习，并创造更多百合程序
+我决定为GL/Yuri之崛起而学习，创造更多百合程序
 
 All for GL/Yuri
+
+## My Tools
+
+[![My Tools](https://skillicons.dev/icons?i=astro)]([https://skillicons.dev](https://docs.astro.build/zh-cn/getting-started/))
+[![My Tools](https://skillicons.dev/icons?i=js)]([https://skillicons.dev](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript))
+[![My Tools](https://skillicons.dev/icons?i=nodejs&theme=light)](https://nodejs.org/en)
+[![My Tools](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
+[![My Tools](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/zh-CN/docs/Web/CSS)
+[![My Tools](https://skillicons.dev/icons?i=less&theme=light)](https://less.bootcss.com/)
+[![My Tools](https://skillicons.dev/icons?i=vscode&theme=light)](https://code.visualstudio.com/download)
+[![My Tools](https://skillicons.dev/icons?i=ps)](https://www.qijishow.com/down/index.html)
+[![My Tools](https://skillicons.dev/icons?i=ai)](https://www.qijishow.com/down/index.html)
+[![My Tools](https://skillicons.dev/icons?i=notion&theme=light)](https://www.notion.com/zh-cn/desktop)
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
