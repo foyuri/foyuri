@@ -8,8 +8,8 @@ All for GL/Yuri
 
 ## My Tools
 
-[![My Tools](https://skillicons.dev/icons?i=astro)]([https://skillicons.dev](https://docs.astro.build/zh-cn/getting-started/))
-[![My Tools](https://skillicons.dev/icons?i=js)]([https://skillicons.dev](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript))
+[![My Tools](https://skillicons.dev/icons?i=astro)](https://docs.astro.build/zh-cn/getting-started/)
+[![My Tools](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 [![My Tools](https://skillicons.dev/icons?i=nodejs&theme=light)](https://nodejs.org/en)
 [![My Tools](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
 [![My Tools](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/zh-CN/docs/Web/CSS)
