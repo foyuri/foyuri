@@ -16,6 +16,7 @@ All for GL/Yuri
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [More Than Love｜指匠情挑 Fingersmith Maud Sue 百合 gl](https://www.youtube.com/watch?v=9yNAjXfLlfw)
 - [I can&#39;t stop love love love | 善意的竞争 在伊琪 刘在伊x禹瑟琪 李惠利 郑秀斌 百合 gl](https://www.youtube.com/watch?v=MaoHPzK8ZPI)
 - [「妳覺得我們中學那段，是不是愛情」｜喜歡妳是妳 百合 gl](https://www.youtube.com/watch?v=NcIpwT_KmrQ)
 - [成绩优异的大文当上了家庭教师，而她的学生竟是...｜五两 风之画员 moons 文根英 文彩元 百合 gl](https://www.youtube.com/watch?v=Qg80EXf7IVo)
