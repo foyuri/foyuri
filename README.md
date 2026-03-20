@@ -8,6 +8,7 @@ All for GL/Yuri
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [看了又看《指匠情挑》：Maud &amp; Sue 情侣装汇总](https://foyuri.github.io/post/fingersmith-clothes/)
 - [百合博客翻新记&lpar;2/2&rpar; 聊聊我的百合博客](https://foyuri.github.io/post/blog-refresh-2/)
 - [百合博客翻新记&lpar;1/2&rpar; 自定义Hexo-Landscape主题](https://foyuri.github.io/post/blog-refresh-1/)
 - [《要我和妳交往也不是不行》：真实向GL漫](https://foyuri.github.io/post/how-do-we-relationship-intro/)
