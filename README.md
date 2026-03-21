@@ -1,4 +1,4 @@
-# I'm Foy, a Yuri producer
+# I'm Foy, a Yuri creator
 
 FoYuri这个名字源于我的英文名（Foy）和我一生的热爱（GL/Yuri）
 
