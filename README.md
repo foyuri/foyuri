@@ -17,11 +17,11 @@ All for GL/Yuri
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Funny Maud &amp; Sue｜指匠情挑 Fingersmith 百合 gl](https://www.youtube.com/watch?v=384lIVo0WzE)
-- [Maud calling Sue&#39;s name｜指匠情挑 Fingersmith 百合 gl](https://www.youtube.com/watch?v=7m6k3cU0FtU)
-- [More Than Love｜指匠情挑 Fingersmith Maud Sue 百合 gl](https://www.youtube.com/watch?v=9yNAjXfLlfw)
-- [I can&#39;t stop love love love | 善意的竞争 在伊琪 刘在伊x禹瑟琪 李惠利 郑秀斌 百合 gl](https://www.youtube.com/watch?v=MaoHPzK8ZPI)
-- [「妳覺得我們中學那段，是不是愛情」｜喜歡妳是妳 百合 gl](https://www.youtube.com/watch?v=NcIpwT_KmrQ)
+- [Maud &amp; Sue Funny Moments｜Fingersmith](https://www.youtube.com/watch?v=384lIVo0WzE)
+- [Maud calling Sue&#39;s name｜Fingersmith](https://www.youtube.com/watch?v=7m6k3cU0FtU)
+- [More Than Love｜Fingersmith Maud &amp; Sue](https://www.youtube.com/watch?v=9yNAjXfLlfw)
+- [I can&#39;t stop love love love｜善意的竞争 在伊琪 刘在伊x禹瑟琪](https://www.youtube.com/watch?v=MaoHPzK8ZPI)
+- [妳覺得我們中學那段，是不是愛情｜喜歡妳是妳](https://www.youtube.com/watch?v=NcIpwT_KmrQ)
 <!-- YOUTUBE:END -->
 
 ## Tools
