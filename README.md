@@ -8,11 +8,11 @@ All for GL/Yuri
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [《指匠情挑》Sue的经典语录](https://foyuri.github.io/post/sue-quotes/)
 - [Hexo博客自定义 - Bluesky篇](https://foyuri.github.io/post/blog-customize-bluesky/)
 - [《别吵架了，睡觉吧》GL韩漫介绍](https://foyuri.github.io/post/stop-fighting-go-to-bed-intro/)
-- [看了又看《指匠情挑》：Maud &amp; Sue 情侣装汇总](https://foyuri.github.io/post/fingersmith-clothes/)
+- [《指匠情挑》Maud &amp; Sue 情侣装汇总](https://foyuri.github.io/post/fingersmith-clothes/)
 - [百合博客翻新记&lpar;2/2&rpar; 聊聊我的百合博客](https://foyuri.github.io/post/blog-refresh-2/)
-- [百合博客翻新记&lpar;1/2&rpar; 自定义Hexo-Landscape主题](https://foyuri.github.io/post/blog-refresh-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest YouTube Videos
