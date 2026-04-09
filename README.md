@@ -17,11 +17,11 @@ All for GL/Yuri
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [The Others &lpar;2001&rpar; Elaine Cassidy Cut](https://www.youtube.com/watch?v=9hOBfVzhigo)
+- [Disco Pigs &lpar;2001&rpar; Elaine Cassidy Cut](https://www.youtube.com/watch?v=bOmGnK-cs9A)
 - [Maud &amp; Sue Funny Moments｜Fingersmith](https://www.youtube.com/watch?v=384lIVo0WzE)
 - [Maud calling Sue&#39;s name｜Fingersmith](https://www.youtube.com/watch?v=7m6k3cU0FtU)
 - [More Than Love｜Fingersmith Maud &amp; Sue](https://www.youtube.com/watch?v=9yNAjXfLlfw)
-- [I can&#39;t stop love love love｜善意的竞争 在伊琪 刘在伊x禹瑟琪](https://www.youtube.com/watch?v=MaoHPzK8ZPI)
-- [妳覺得我們中學那段，是不是愛情｜喜歡妳是妳](https://www.youtube.com/watch?v=NcIpwT_KmrQ)
 <!-- YOUTUBE:END -->
 
 ## Tools
