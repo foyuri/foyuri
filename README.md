@@ -17,8 +17,8 @@ All for GL/Yuri
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Disco Pigs &lpar;2001&rpar; Elaine Cassidy Cut](https://www.youtube.com/watch?v=ie9bc_A3fgw)
 - [The Others &lpar;2001&rpar; Elaine Cassidy Cut](https://www.youtube.com/watch?v=9hOBfVzhigo)
-- [Disco Pigs &lpar;2001&rpar; Elaine Cassidy Cut](https://www.youtube.com/watch?v=bOmGnK-cs9A)
 - [Maud &amp; Sue Funny Moments｜Fingersmith](https://www.youtube.com/watch?v=384lIVo0WzE)
 - [Maud calling Sue&#39;s name｜Fingersmith](https://www.youtube.com/watch?v=7m6k3cU0FtU)
 - [More Than Love｜Fingersmith Maud &amp; Sue](https://www.youtube.com/watch?v=9yNAjXfLlfw)
