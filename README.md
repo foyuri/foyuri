@@ -17,9 +17,9 @@ All for GL/Yuri
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [The Lost World &lpar;2001&rpar; Elaine Cassidy Cut](https://www.youtube.com/watch?v=dkxUonQHJJw)
-- [Disco Pigs &lpar;2001&rpar; Elaine Cassidy Cut](https://www.youtube.com/watch?v=ie9bc_A3fgw)
-- [The Others &lpar;2001&rpar; Elaine Cassidy Cut](https://www.youtube.com/watch?v=9hOBfVzhigo)
+- [Elaine Cassidy as Agnes - The Lost World &lpar;2001&rpar;](https://www.youtube.com/watch?v=dkxUonQHJJw)
+- [Elaine Cassidy as Runt - Disco Pigs &lpar;2001&rpar;](https://www.youtube.com/watch?v=ie9bc_A3fgw)
+- [Elaine Cassidy as Lydia - The Others &lpar;2001&rpar;](https://www.youtube.com/watch?v=9hOBfVzhigo)
 - [Maud &amp; Sue Funny Moments｜Fingersmith](https://www.youtube.com/watch?v=384lIVo0WzE)
 - [Maud calling Sue&#39;s name｜Fingersmith](https://www.youtube.com/watch?v=7m6k3cU0FtU)
 <!-- YOUTUBE:END -->
