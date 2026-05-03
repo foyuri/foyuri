@@ -17,11 +17,11 @@ All for GL/Yuri
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Sally Hawkins in The Shape of Water &lpar;2017&rpar;](https://www.youtube.com/watch?v=6H8pqX2na3E)
+- [Elaine Cassidy as Carrie｜The Bay of Love and Sorrows &lpar;2002&rpar;](https://www.youtube.com/watch?v=TeQoSSEYUaU)
 - [Elaine Cassidy as Geli｜Uncle Adolf &lpar;2005&rpar;](https://www.youtube.com/watch?v=jtD_Q9_81Ko)
 - [Elaine Cassidy as Michelle｜The Stranger Within Me &lpar;1994&rpar;](https://www.youtube.com/watch?v=Nhq9wBWEeME)
 - [Elaine Cassidy as Passenger｜&quot;The Scientist&quot; by Coldplay &lpar;2002&rpar;](https://www.youtube.com/watch?v=I7KURPpI9Dg)
-- [Elaine Cassidy as Zara｜Dr Hoo &lpar;2009&rpar;](https://www.youtube.com/watch?v=zvAJ4mAAJe4)
-- [Elaine Cassidy as Felicia｜Felicia&#39;s Journey &lpar;1999&rpar;](https://www.youtube.com/watch?v=UJhENK-Q98M)
 <!-- YOUTUBE:END -->
 
 ## Tools
