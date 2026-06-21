@@ -17,11 +17,11 @@ All for GL/Yuri
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Elaine Cassidy as Rachel Cohen｜Hannah Cohen&#39;s Holy Communion &lpar;2012&rpar;](https://www.youtube.com/watch?v=R7G7_1QARg4)
-- [Sally Hawkins in The Shape of Water &lpar;2017&rpar;](https://www.youtube.com/watch?v=6H8pqX2na3E)
+- [Elaine Cassidy as Rachel｜Hannah Cohen&#39;s Holy Communion &lpar;2012&rpar;](https://www.youtube.com/watch?v=R7G7_1QARg4)
 - [Elaine Cassidy as Carrie｜The Bay of Love and Sorrows &lpar;2002&rpar;](https://www.youtube.com/watch?v=TeQoSSEYUaU)
 - [Elaine Cassidy as Geli｜Uncle Adolf &lpar;2005&rpar;](https://www.youtube.com/watch?v=jtD_Q9_81Ko)
 - [Elaine Cassidy as Michelle｜The Stranger Within Me &lpar;1994&rpar;](https://www.youtube.com/watch?v=Nhq9wBWEeME)
+- [Elaine Cassidy as Passenger｜&quot;The Scientist&quot; by Coldplay &lpar;2002&rpar;](https://www.youtube.com/watch?v=I7KURPpI9Dg)
 <!-- YOUTUBE:END -->
 
 ## Tools
