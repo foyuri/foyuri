@@ -17,7 +17,7 @@ All for GL/Yuri
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Elaine Cassidy as Rachel｜Hannah Cohen&#39;s Holy Communion &lpar;2012&rpar;](https://www.youtube.com/watch?v=R7G7_1QARg4)
+- [Elaine Cassidy as Rachel｜Hannah Cohen&#39;s Holy Communion &lpar;2012&rpar;](https://www.youtube.com/watch?v=F47q8IIL1Lk)
 - [Elaine Cassidy as Carrie｜The Bay of Love and Sorrows &lpar;2002&rpar;](https://www.youtube.com/watch?v=TeQoSSEYUaU)
 - [Elaine Cassidy as Geli｜Uncle Adolf &lpar;2005&rpar;](https://www.youtube.com/watch?v=jtD_Q9_81Ko)
 - [Elaine Cassidy as Michelle｜The Stranger Within Me &lpar;1994&rpar;](https://www.youtube.com/watch?v=Nhq9wBWEeME)
