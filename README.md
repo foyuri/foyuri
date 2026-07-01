@@ -17,11 +17,11 @@ All for GL/Yuri
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Elaine Cassidy as Rachel｜Hannah Cohen&#39;s Holy Communion &lpar;2012&rpar;](https://www.youtube.com/watch?v=F47q8IIL1Lk)
-- [Elaine Cassidy as Carrie｜The Bay of Love and Sorrows &lpar;2002&rpar;](https://www.youtube.com/watch?v=TeQoSSEYUaU)
 - [Elaine Cassidy as Geli｜Uncle Adolf &lpar;2005&rpar;](https://www.youtube.com/watch?v=jtD_Q9_81Ko)
-- [Elaine Cassidy as Michelle｜The Stranger Within Me &lpar;1994&rpar;](https://www.youtube.com/watch?v=Nhq9wBWEeME)
-- [Elaine Cassidy as Passenger｜&quot;The Scientist&quot; by Coldplay &lpar;2002&rpar;](https://www.youtube.com/watch?v=I7KURPpI9Dg)
+- [Elaine Cassidy as Felicia｜Felicia&#39;s Journey &lpar;1999&rpar;](https://www.youtube.com/watch?v=UJhENK-Q98M)
+- [Elaine Cassidy as Runt｜Disco Pigs &lpar;2001&rpar;](https://www.youtube.com/watch?v=ie9bc_A3fgw)
+- [Maud &amp; Sue Funny Moments｜Fingersmith](https://www.youtube.com/watch?v=384lIVo0WzE)
+- [Maud calling Sue&#39;s name｜Fingersmith](https://www.youtube.com/watch?v=7m6k3cU0FtU)
 <!-- YOUTUBE:END -->
 
 ## Tools
