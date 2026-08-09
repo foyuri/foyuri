@@ -1,4 +1,4 @@
-# Foy - 百合Producer（自称
+# FoYuri - All for GL/Yuri
 
 FoYuri这个名字源于我的英文名（Foy）和我一生的热爱（GL/Yuri）
 
