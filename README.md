@@ -8,11 +8,11 @@ All for GL/Yuri
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Elaine Cassidy CUT 不完全合集](https://foyuri.netlify.app/post/ec-cuts-playlist/)
 - [Hexo 博客从 GitHub Pages 迁移到 Netlify](https://foyuri.netlify.app/post/migrate-blog-to-netlify/)
 - [关于我的佐伯沙弥香](https://foyuri.netlify.app/post/my-saeki-sayaka/)
 - [终于拆封看了3年前在日本买的百合漫](https://foyuri.netlify.app/post/the-manga-bought-in-jp/)
 - [《指匠情挑》Sue的经典语录](https://foyuri.netlify.app/post/sue-quotes/)
-- [Bluesky × Hexo：图标添加与自定义Handle](https://foyuri.netlify.app/post/blog-customize-bluesky/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest YouTube Videos
